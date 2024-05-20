@@ -1,17 +1,22 @@
 .message {
-
+    display: flex;
+    justify-content: flex-end;
 }
 
 .imageAndText {
-
+    display: flex;
+    flex-direction: row-reverse;
 }
 
 .imageAndText img {
-
+    height: 50px;
 }
 
 .text {
-
+    background-color: #0066cc;
+    margin-right: 1rem;
+    border-radius: 10px;
+    padding: 10px;
 }
 
 .text:after {

@@ -1,17 +1,21 @@
 .sendForm {
-
+    width: 100%;
+    padding-top: 2rem;
 }
 
 .textarea {
+    width: 90%;
 
 }
 
 .button {
-
+    padding: 10px;
+    border: none;
+    background-color: #0059b3;
 }
 
 .button:hover {
-
+    background-color: #58ffff;
 }
 .button:active {
 
